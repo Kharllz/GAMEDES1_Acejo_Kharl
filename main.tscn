@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://buu56k223k14u"]
+
+[node name="Main" type="Node2D" unique_id=1184652933]
+
+[node name="ScoreLabel" type="Label" parent="." unique_id=156317843]
+offset_right = 161.0
+offset_bottom = 56.0
+text = "KINGSLY POGI
+"
+
+[node name="Camera" type="Camera2D" parent="." unique_id=255402069]
+
+[node name="Player" type="Sprite2D" parent="." unique_id=2086274550]
